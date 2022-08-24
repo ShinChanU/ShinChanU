@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center" border>
+  <h2>👨‍💻 Welcome !</h2>
+</div>
 
-<!--
-**ShinChanU/ShinChanU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I want to..</h2>
+<ul>
+  <li>🕸 Front-End Web Developer</li>
+  <li>🪐 ReactJs Professional</li>
+  <li>💻 Clean Code itself</li>
+</ul>
 
-Here are some ideas to get you started:
+<h3>My Project..</h3>
+<pre>
+  let project = "waiting please... Ready..."
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinChanU&hide=issues&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChanU&hide=java,typescript&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
