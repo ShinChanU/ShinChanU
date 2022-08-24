@@ -1,5 +1,5 @@
 <div align="center" border>
-  <h2>👨‍💻 Welcome !</h2>
+  <h2>👨‍💻 Welcome My GitWorld !</h2>
 </div>
 
 <h3>I want to..</h2>
@@ -17,8 +17,3 @@
 <hr />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinChanU&hide=issues&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinChanU&hide=java,typescript&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
