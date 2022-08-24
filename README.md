@@ -1,6 +1,4 @@
-<div align="center" border>
-  <h2>👨‍💻 Welcome My GitWorld !</h2>
-</div>
+<h2>👨‍💻 Welcome My GitWorld !</h2>
 
 <h3>I want to..</h2>
 <ul>
